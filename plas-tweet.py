@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
-# twitter bot for @plaspoly Copyright 2019 Thomas Homer
+# Twitter bot for @plaspoly by Thomas Homer
+# Forked from blades-tweet.py:
 
-# Based on blades-tweet.py Copyright 2018 Bryant Durrell
+# Copyright 2018 Bryant Durrell
 # 
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are

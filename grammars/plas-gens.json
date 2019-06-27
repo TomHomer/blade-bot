@@ -1,12 +1,15 @@
 {
-    "origin": ["#generator#"],
-    "checkout": [
-        "Check out @doskvolscores, the #superlative# |bot that provided the inspiration and the base source code for this one! |bladesinthedark"
-    ],
+    "origin": ["#main#"],
+    "checkout": ["Check out @doskvolscores, the #superlative# |bot that provided the inspiration and the base sourcecode for this one!","Check out #thisblognetwork#"],
     "superlative": ["awesome","wonderful","brilliant","great","fantastic"],
-    "generator": [
+    "thisblognetwork": ["this #superlative# |rpg blog network: #rpnw#","this network of #superlative# |rpg blogs: #rpnw#","this #superlative# |wargames blog network: #wgnw#","this network of #superlative# |wargaming blogs: #wgnw#"],
+    "rpnw": ["RPG Planet https://campaignwiki.org/rpg"],
+    "wgnw": ["TGN Blogs https://blogs.tabletopgamingnews.com"],
+    "main": [
         "#checkout#",
-        "This #wod-weapon# was crafted by #wod-creator# in a war against #wod-enemy#",
-        "This #fst-age# |festival celebrates or ensures #fst-celeb#"
+        "|rpg: This #fst-age# |festival celebrates or ensures #fst-celeb#",
+        "|dnd: This #wod-weapon# was crafted by #wod-creator# in a war against #wod-enemy#",
+        "|npc: "
+        
     ]
 }
