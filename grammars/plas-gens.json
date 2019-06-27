@@ -14,9 +14,18 @@
         "#checkout#",
         "|rpg: This #fst-age# festival celebrates or ensures #fst-celeb#.  In town, #fst-trappings# and the people are encouraged to #fst-dothis#. During the festivities the party realise that #fst-adventure# and only the #fst-npc# can help them unravel the mystery...",
         "|dnd: Crafted long ago by #wod-craft# to be wielded in a war against #wod-enemy#, this is a #wod-wpn# of destiny. It #wod-tells# and #wod-is#. #wod-quest# to awaken its powers, when it will become a +2 magic weapon that #wod-powers#.",
-        "|npc: " 
+        "Fae |npc: This #yxz-d6# has an aspect of #yxz-d4#. It wears #yxz-d8# and carries #yxz-d12#. It wants #yxz-d20#, and may offer #yxz-d10t# in exhange for #yxz-d10u#."
+
     ],
 
+    "yxz-d6": ["Dryad","Satyr","Sprite","Pixie","wild Elf or Gnome","man-beast hybrid"],
+    "yxz-d4": ["spring","summer","autumn","winter"],
+    "yxz-d8": ["a silver circlet","nothing","fine clothes","stitched rags","a cloak","an icon or brooch","a magic ring","human skin"],
+    "yxz-d12": ["a spear","items wrapped in leaves","a bow","a slver bell","a staff","armfuls of fruit","a sword","a lock of hair","two knives","an injured animal","a cudgel","a covered basket"],
+    "yxz-d20": ["to know a secret","to dominate someone","to play a trick","revenge on an enemy","an audience","to trade goods","a true friend","help against a foe","to meet Royalty","help for a friend","to live forever","to destroy something","to die, but cannot,","help to steal something","to lift a curse","to curse another","to open a portal","to close a portal","a specific item","undying love"],
+    "yxz-d10t": ["a love charm","a bag of gold","eternal life","a handful of gems","safe passage","fine jewellery","to undo a spell","a magic item","to cast a spell","its servitude"],
+    "yxz-d10u": ["a drop of blood","a lock of hair","a language you speak","a firstborn child","the memory of a loved one","your true name","all your memories to now","the sight of one eye","a day in your skin","a terrible secret"],
+    
     "wod-craft": ["Dwarves, from rare minerals and alloys","Gnomes, from fine silver woven with spells","Elves, from a branch of the oldest tree","Drow, from darkness made tangible","Angels, from a fragment of a star","Elementals, from distilled elemental energy","Fey, sung into shape from some organic matter","Merfolk, from the horn of a narwhal","Slaadi, from the remains of a dead Modron","Mind Flayers, from psychically infused iron","Devils, forged in the fires of the Hells","Demons, from solidified corruption","Centaurs, from finest polished bronze","Yuan-Ti, from the bones of a Naga","a Vampire, forged and cooled in blood","a Lich, from the weapon of a hero","a Banshee, and lost by her in death,","Lizardfolk, from the bones of a gargantuan beast","a Sphinx, from a treasure of the gods","Orcs, by melting down the weapons of their foes"],
     "wod-enemy": ["Undead","Monstrosities","Fiends","Dragons","Celestials","Aberrations"],
     "wod-wpn": ["spear","mace","quarterstaff","handaxe","longsword","warhammer","battleaxe","halberd","greataxe","greatsword"],
