@@ -1,0 +1,12 @@
+{
+    "origin": ["#generator#"],
+    "checkout": [
+        "Check out @doskvolscores, the #superlative# |bot that provided the inspiration and the base source code for this one! |bladesinthedark"
+    ],
+    "superlative": ["awesome","wonderful","brilliant","great","fantastic"],
+    "generator": [
+        "#checkout#",
+        "This #wod-weapon# was crafted by #wod-creator# in a war against #wod-enemy#",
+        "This #fst-age# |festival celebrates or ensures #fst-celeb#"
+    ]
+}
