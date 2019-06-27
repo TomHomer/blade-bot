@@ -46,7 +46,7 @@ from tracery.modifiers import base_english
 def generate():
     parser = argparse.ArgumentParser(description='PlasticPolyhedra tweetbot')
     parser.add_argument('--grammar', required=True, help='JSON grammar')
-    parser.add_argument('--maxlen', default=260, type=int, help='Max tweet length')
+    parser.add_argument('--maxlen', default=270, type=int, help='Max tweet length')
     parser.add_argument('--print', help='Print score', action='store_true')
     parser.add_argument('--tweet', help='Tweet score', action='store_true')
     args = parser.parse_args()

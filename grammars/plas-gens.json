@@ -1,15 +1,34 @@
 {
     "origin": ["#main#"],
-    "checkout": ["Check out @doskvolscores, the #superlative# |bot that provided the inspiration and the base sourcecode for this one!","Check out #thisblognetwork#"],
+    "checkout": [
+        "Check out @doskvolscores, the #superlative# |bot that provided the inspiration and the base sourcecode for this one!",
+        "Check out #thisrpgblognetwork# RPG Planet https://campaignwiki.org/rpg",
+        "Check out #thisttgblognetwork# TGN Blogs https://blogs.tabletopgamingnews.com",
+        "Check out #thiswgblognetwork# Blogs of War http://wargamesblogs.blogspot.com/"],
     "superlative": ["awesome","wonderful","brilliant","great","fantastic"],
-    "thisblognetwork": ["this #superlative# |rpg blog network: #rpnw#","this network of #superlative# |rpg blogs: #rpnw#","this #superlative# |wargames blog network: #wgnw#","this network of #superlative# |wargaming blogs: #wgnw#"],
-    "rpnw": ["RPG Planet https://campaignwiki.org/rpg"],
-    "wgnw": ["TGN Blogs https://blogs.tabletopgamingnews.com"],
+    "thisrpgblognetwork": ["this #superlative# |rpg blog network: ","this network of #superlative# |rpg blogs: "],
+    "thiswgblognetwork": ["this #superlative# |wargames blog network: ","this network of #superlative# |wargaming blogs: "],
+    "thisttgblognetwork": ["this #superlative# |tabletop blog network: ","this network of #superlative# |tabletop blogs: "],
+
     "main": [
         "#checkout#",
-        "|rpg: This #fst-age# |festival celebrates or ensures #fst-celeb#",
-        "|dnd: This #wod-weapon# was crafted by #wod-creator# in a war against #wod-enemy#",
-        "|npc: "
-        
-    ]
+        "|rpg: This #fst-age# festival celebrates or ensures #fst-celeb#.  In town, #fst-trappings# and the people are encouraged to #fst-dothis#. During the festivities the party realise that #fst-adventure# and only the #fst-npc# can help them unravel the mystery...",
+        "|dnd: Crafted long ago by #wod-craft# to be wielded in a war against #wod-enemy#, this is a #wod-wpn# of destiny. It #wod-tells# and #wod-is#. #wod-quest# to awaken its powers, when it will become a +2 magic weapon that #wod-powers#.",
+        "|npc: " 
+    ],
+
+    "wod-craft": ["Dwarves, from rare minerals and alloys","Gnomes, from fine silver woven with spells","Elves, from a branch of the oldest tree","Drow, from darkness made tangible","Angels, from a fragment of a star","Elementals, from distilled elemental energy","Fey, sung into shape from some organic matter","Merfolk, from the horn of a narwhal","Slaadi, from the remains of a dead Modron","Mind Flayers, from psychically infused iron","Devils, forged in the fires of the Hells","Demons, from solidified corruption","Centaurs, from finest polished bronze","Yuan-Ti, from the bones of a Naga","a Vampire, forged and cooled in blood","a Lich, from the weapon of a hero","a Banshee, and lost by her in death,","Lizardfolk, from the bones of a gargantuan beast","a Sphinx, from a treasure of the gods","Orcs, by melting down the weapons of their foes"],
+    "wod-enemy": ["Undead","Monstrosities","Fiends","Dragons","Celestials","Aberrations"],
+    "wod-wpn": ["spear","mace","quarterstaff","handaxe","longsword","warhammer","battleaxe","halberd","greataxe","greatsword"],
+    "wod-tells": ["hums or throbs when held (but this lessens when attuned to the wielder)","is hung with tiny bells, charms, or similar small items","is inlaid with veins that pulse, glow, or reflect light in an odd way","is covered in writing, runes, or glyphs in a known or unknown language","looks different out of the corner of your eye somehow","is engraved all over with scenes of battle and heroism (or slaughter)","causes a ringing in the ears of the wielder, (which lessens when attuned)","is crafted in the image of an animal or mythical creature","makes the wielder speak in the language of the creator until attuned","has a grip wrapped with the skin of a rare, magical, or extinct creature"],
+    "wod-is": ["is vicious, whether wickedly sharp, toxic, or something else, adding +1 to damage","is well balanced, or somehow blessed or guided, adding +1 to attack rolls","is unusual; it gains or loses Finesse, Heavy, Versatile or a similar property","glows, thrums, or sings, gently or fiercely, in the presence of its intended enemy"],
+    "wod-quest": ["It must be bathed in a certain spring, lava flow, mana field, or similar","The wielder must slay [a number of] its intended enemies","It must be re-forged by the descendant of its original creator","The wielder must avenge the death of the last hero who fell using it","It must be joined with lost part, and made whole again,","A ceremony, only known by a dwindling few, must be performed over it","It must be infused with the power of ancestral spirits at a secret location","It must be used to slay the previous wielder, corrupted before its destiny could be fulfilled,","The wielder must free the soul of its creator from torment","The wielder must resolve an ancient grudge among the kin of the creator","The wielder must free the descendants of the creator from tyranny","It must be used to sunder a specific icon of the intended enemy"],
+    "wod-powers": ["is the only thing that can seal, banish, or deliver the killing blow to a specific intended enemy","magically senses and counts as a +3 weapon against its intended enemy","forces creatures of the enemy type that see it to save or be blinded, fearful, or similar","deals d6 additional damage of a flavourful type, and makes an intended enemy hit by it vulnerable to this type of damage","allows the wielder to Charm, Command, or use a similar effect on an intended enemy once per day","blazes on contact and deals an additional 3d6 damage to the intended enemies","protects the wielder from some specific power of the intended enemy; Dragon breath weapons, Beholder and Basilisk gazes, charms, curses, etc","unleashes a force when it strikes an intended enemy, pushing them back and/or inflicting a status such as blinded, stunned etc"],
+
+    "fst-age": ["ancient","traditional","new","touring"],
+    "fst-celeb": ["fertility","safe passage into the Underworld","the safe return of kinfolk","an historic victory","a local myth","a bountiful harvest","protection from evil","a holy day"],
+    "fst-trappings": ["the streets are strung with lights or bunting","gender conventions are reversed or blurred","trinket stalls pop up all over","a special dish is prepared","flowers, coins, or other small items litter the streets","businesses change their hours","street performers appear on every corner","all talk is of the upcoming trials","buildings are daubed with a special symbol","unusual flora appears all over"],
+    "fst-dothis": ["dress brightly and be merry","dress in sackcloth and repent","feast, quaff, and fornicate","fast and meditate","sacrifice to a higher being","show charity and compassion"],
+    "fst-adventure": ["a child has been lost, or appeared from nowhere,","something has been stolen, or given unwanted","it is a cover for smugglers","it is actually a ritual, for good or ill","a politician wants to use it for their own ends","they have lost a day but no-one will acknowledge it","the veil between worlds or planes is lifted","something is being - or will be - accidentally summoned","the attacking raiders are trying to carry something off","the festivalgoers are transfixed or hypnotised","someone at the festival is 'changed'","nobody can leave or enter the festival grounds","fae, demons, or aliens are being drawn to it","one of the groups competing for a title or privilege need support","folk from strange lands now mingle with the locals","a vital macguffin must be found before the festival ends","magic is amplified or negated in the festival grounds","someone must be prepared for a special role in the celebrations","the festival comes and goes at midnight","someone is trying to stop the celebrations"],
+    "fst-npc": ["Master of Ceremonies","child with 100 year wisdom","mysterious masked mime","most beautiful maiden","unseen prowler","Speaker of Tongues","victim of a murder","man with the eyes of a cat","corrupt official","local celebrity","foreign Lord","fortune teller"]
 }
